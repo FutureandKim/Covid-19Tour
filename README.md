@@ -27,14 +27,14 @@
 
 <br>
 
-## 🖥️ 웹페이지 링크
-> https://futureandkim.github.io/Covid-19Tour/
-
-<br>
-
 ## 🔍 프리뷰
 ![preview](https://github.com/FutureandKim/Covid-19Tour/assets/95979743/85698832-8e66-40a4-a3e8-920c8947d812)
         
+<br>
+
+## 🖥️ 웹페이지 링크
+> https://futureandkim.github.io/Covid-19Tour/
+
 <br>
 
 ## 🌟 기대 효과
