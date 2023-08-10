@@ -19,16 +19,24 @@
 
 <br>
 
-## 🖥️ 기술 스택
-### Environment
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-
+## 📣 기술 스택
 ### Development
-<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-
+<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+### Tool
+<img src="https://img.shields.io/badge/visual studio code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 
 <br>
 
+## 🖥️ 웹페이지 링크
+> https://futureandkim.github.io/Covid-19Tour/
+
+<br>
+
+## 🔍 프리뷰
+
+
+
+<br>
 
 ## 🌟 기대 효과
 ◾ 해외여행을 하려는 사람들이 원하는 나라의 확진자 및 코로나 상황을 한 눈에 파악한다.
@@ -38,3 +46,5 @@
 ◾ 심플하고 단순한 구성으로 인터넷 사용이 미숙한 사람들도 쉽게 파악할 수 있도록 한다.
 
 <br>
+
+
